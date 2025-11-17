@@ -1,0 +1,19 @@
+[
+  {
+    "courseId": "a1aed351-ed39-4aa9-a7a4-33f32db0a576",
+    "title": "math 4",
+    "description": "very good course",
+    "instructorId": "855c8255-04a9-4cc6-9af6-c81d5c0b0d43",
+    "lessons": [
+      {
+        "lessonId": "a279446b-86a9-4626-b969-c9e04308de21",
+        "title": "integeration",
+        "content": "kjjdijbiwnbovibkjbeljbljvabliugblvkjkabgi2iublaidiqehjgbeaijvbegwgihvbpiewgtrubvidfb\nkjmvnwibniniw\nfvlibjwib",
+        "resources": []
+      }
+    ],
+    "students": [
+      "25ae91df-9d5e-469d-8e0d-38335ccf4eff"
+    ]
+  }
+]
